@@ -1,6 +1,6 @@
 # Hi, I'm Haroon Khan 👋
 
-**Robotics & Embedded Engineer** based in Bengaluru, India
+**Robotics & Embedded AI Engineer** based in Bengaluru, India
 
 I build robotic systems that work in the real world — not just in simulation.
 
