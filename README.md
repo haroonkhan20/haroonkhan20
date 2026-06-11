@@ -1,34 +1,65 @@
-# Hi, I'm Haroon Khan 👋
+# Hi, I'm Mohammed Haroon Khan 👋
 
-**Robotics & Embedded AI Engineer** based in Bengaluru, India
+**Robotics & AI Engineer** · Bengaluru, India  
+Building at the intersection of hardware, software, and intelligence.
 
-I build robotic systems that work in the real world — not just in simulation.
+---
 
-## 🤖 What I work on
-- **ROS2** autonomous mobile robots (SLAM, Nav2, TF2, Gazebo)
-- **Embedded firmware** — Qualcomm RB5, STM32, ESP32, Raspberry Pi
-- **Edge AI** — TFLite + PyTorch inference pipelines on CPU Linux
-- **Linux kernel** — character device drivers, kernel modules
+## 🧠 What I do
 
-## 🔧 Current Stack
-`ROS2 Humble` `Nav2` `SLAM Toolbox` `Python` `C/C++` `Embedded C`
-`Qualcomm RB5` `STM32` `ESP32` `MQTT/TLS` `OpenCV` `TFLite` `PyTorch`
+I build systems that **move, sense, and think** — from autonomous mobile robots navigating real environments, to AI-powered web applications running in the browser. I work across the full stack: embedded firmware → ROS2 middleware → Python AI pipelines → web interfaces.
 
-## 📌 Pinned Projects
-| Project | What it does |
-|---|---|
-| [ros2-amr-slam-nav2](https://github.com/haroonkhan20/ros2-amr-slam-nav2) | Full ROS2 AMR — SLAM Toolbox + Nav2 autonomous navigation in Gazebo |
-| [linux-sensor-driver-mqtt](https://github.com/haroonkhan20/linux-sensor-driver-mqtt) | Linux char device driver in C + Python MQTT/TLS pipeline, benchmarked |
-| [mpu6050-imu-ros2-ekf](https://github.com/haroonkhan20/mpu6050-imu-ros2-ekf) | MPU6050 ROS2 driver + EKF sensor fusion for AMR state estimation |
+Currently transitioning into **AI Engineering** — building production-ready AI systems with Python, LLMs, and computer vision.
 
-## 💼 Experience
-**Kritikal Solutions Pvt. Ltd** — Embedded & Robotics Engineer (Feb 2025 – Jan 2026)
-- Shipped 3 production systems on Qualcomm RB5 (Embedded Linux)
-- MQTT/TLS sensor pipeline, NRF24L01 wireless timing, ESP32 IoT device
+---
 
-## 📫 Reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haroon-khan-43031531a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdharoonkhan004@gmail.com)
+## 🚀 Projects
 
-📍 Bengaluru, India  |  🔓 Open to work — Robotics / Embedded / Edge AI roles
--->
+| Project | Stack | What it does |
+|---|---|---|
+| [SamBot — AI Chatbot](https://github.com/haroonkhan20/ai-engineer-journey) | Python, Flask, Groq API, LLaMA 3 | Full-stack AI chatbot with conversation memory and web UI |
+| [ROS2 AMR — SLAM + Nav2](https://github.com/haroonkhan20/ros2-amr-slam-nav2) | ROS2, Gazebo, Nav2, SLAM Toolbox | Autonomous mobile robot with 360° LiDAR mapping and path planning |
+| [Driver Attention Monitor](https://github.com/haroonkhan20/driver-attention-monitor) | Python, OpenCV, NumPy | Real-time drowsiness detection using eye aspect ratio analysis |
+| [Linux Sensor Driver + MQTT](https://github.com/haroonkhan20/linux-sensor-driver-mqtt) | C, Python, MQTT/TLS | Linux kernel character device driver with secure MQTT pipeline |
+| [Humanoid Robot](https://github.com/haroonkhan20/Humanoid-robot) | C++, ROS2 | Interactive campus navigation humanoid |
+| [ESP32 OTA](https://github.com/haroonkhan20/esp32-ota) | C++, ESP32 | Over-the-air firmware update system |
+| [Python CI/CD Pipeline](https://github.com/haroonkhan20/python-ci-cd-demo) | Python, GitHub Actions | Automated testing and deployment pipeline |
+
+---
+
+## 🛠️ Tech stack
+
+**AI & ML**
+`Python` `Scikit-learn` `OpenCV` `TFLite` `PyTorch` `LLM APIs` `Flask`
+
+**Robotics**
+`ROS2 Humble` `Nav2` `SLAM Toolbox` `Gazebo` `URDF` `TF2` `RViz`
+
+**Embedded & Hardware**
+`ESP32` `STM32` `Raspberry Pi` `Qualcomm RB5` `Arduino`
+
+**Communication protocols**
+`MQTT/TLS` `UART` `SPI` `I2C` `LoRa` `NRF24L01` `BLE`
+
+**Tools**
+`Git` `GitHub Actions` `Linux` `Docker basics` `VS Code`
+
+---
+
+## 📈 Currently learning
+
+- AI Engineering — LLMs, RAG, vector databases
+- MLOps — model deployment, FastAPI, Docker
+- Deep Learning — PyTorch, CNNs, transfer learning
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haroon_Khan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/haroon-khan-43031531a)
+[![GitHub](https://img.shields.io/badge/GitHub-haroonkhan20-181717?style=flat&logo=github)](https://github.com/haroonkhan20)
+📧 mdharoonkhan004@gmail.com
+
+---
+
+*"I don't just learn concepts — I build working systems."*
