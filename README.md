@@ -22,7 +22,7 @@ Currently deepening expertise in **AI Engineering** — LLMs, RAG pipelines, com
 | [ROS2 AMR — SLAM + Nav2](https://github.com/haroonkhan20/ros2-amr-slam-nav2) | ROS2 · Gazebo · Nav2 · SLAM Toolbox | Autonomous mobile robot with 360° LiDAR mapping and path planning |
 | [Driver Attention Monitor](https://github.com/haroonkhan20/driver-attention-monitor) | Python · OpenCV · NumPy | Real-time drowsiness detection using eye aspect ratio analysis |
 | [Linux Sensor Driver + MQTT](https://github.com/haroonkhan20/linux-sensor-driver-mqtt) | C · Python · MQTT/TLS | Linux kernel character device driver with secure MQTT pipeline |
-| [Humanoid Robot](https://github.com/haroonkhan20/Humanoid-robot) | ROS2 · C++ · Python | AI-driven campus navigation humanoid — Best Final Year Project |
+| [Humanoid Robot](https://github.com/haroonkhan20/Humanoid-robot) | C++ · Python | AI-driven campus navigation humanoid — Best Final Year Project |
 | [ESP32 OTA](https://github.com/haroonkhan20/esp32-ota) | C++ · ESP32 | Over-the-air firmware update system |
 | [Python CI/CD Pipeline](https://github.com/haroonkhan20/python-ci-cd-demo) | Python · GitHub Actions | Automated testing and deployment pipeline |
 
